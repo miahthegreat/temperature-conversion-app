@@ -1,6 +1,7 @@
 ## Temperature Conversion App
 
 Bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Styled with [`TailwindCSS`](https://tailwindcss.com/)
 
 ## Getting Started
 
